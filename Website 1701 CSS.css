@@ -1,0 +1,31 @@
+.container{
+    display: flex;
+}
+.box1{
+    flex: 1;
+}
+.box2{
+    flex: 2;
+}
+.box3{
+    flex: 3;
+}
+.box4{
+    flex: 4;
+}  
+  h1 {
+    font-family: Verdana;
+  }
+  
+  p {
+    font-family: verdana;
+  }
+
+  .homepage-top{
+    margin-top: 50px;
+  }
+  .center{
+    align-items: center;
+    align-self: center;
+    align-content: center;
+  }
